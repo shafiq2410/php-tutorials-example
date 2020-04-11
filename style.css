@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+h4 {
+  color: white;
+  background-color: green;
+  text-align: left;
+}
+
+p {
+  font-family: verdana;
+  background-color: lightblue;
